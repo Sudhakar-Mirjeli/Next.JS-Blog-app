@@ -12,6 +12,10 @@ The application allows users to sign up, log in, and manage blog posts through a
 - Dashboard for adding and managing blog posts
 - Backend API with Node.js, Express.js, and MongoDB
 
+## Here is working video
+link- https://www.awesomescreenshot.com/video/28553469?key=9fdada00dcfe76cced50cf32fb649b3d
+
+
 ## Technologies Used
 
 - **Frontend**: Next.js, React, Tailwind CSS
